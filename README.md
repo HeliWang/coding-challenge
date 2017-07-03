@@ -1,4 +1,6 @@
 Insight Data Engineering - Coding Challenge
+Copyright @ Harlan
+
 ===========================================================
 
 For this coding challenge, you will develop tools that could help analyze the community of Twitter users.  For simplicity, the features we will build are primitive, but you could easily build more complicated features on top of these.   
